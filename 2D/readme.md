@@ -17,4 +17,4 @@ The program uses the [Tkinter](https://wiki.python.org/moin/TkInter) package for
 -------------------------------------------------------------------------------------
 ## Screenshot
 
-![](https://github.com/mieni/random-walk/blob/master/2D/Screenshot.png)
+![](https://github.com/mieni/random-walk/blob/master/2D/pic.png)
