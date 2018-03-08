@@ -4,6 +4,11 @@ A simple Monte Carlo simulation of lattice random walk. More on the method can b
 
 
 -------------------------------------------------------------------------------------
+## 1D 
+
+In the, there is a code for the simulation in 1D.
+
+-------------------------------------------------------------------------------------
 ## 2D 
 
-In the folder there is a code for the simulation in 2D.
+In the, there is a code for the simulation in 2D.
