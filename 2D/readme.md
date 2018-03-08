@@ -14,3 +14,7 @@ The program uses [matplotlib](https://matplotlib.org/), and [numpy](http://www.n
 
 The program uses the [Tkinter](https://wiki.python.org/moin/TkInter) package for the GUI
 
+-------------------------------------------------------------------------------------
+## Screenshot
+
+![](https://github.com/mieni/random-walk/blob/master/2D/Screenshot.png)
